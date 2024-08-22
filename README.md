@@ -11,4 +11,6 @@
 
 ## Tecnologias Utilizadas
 
- **HTML**: **CSS**: **JavaScript**
+- **HTML**:
+- **CSS**:
+- **JavaScript**
