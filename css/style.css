@@ -32,8 +32,8 @@ header h2 {
   background: linear-gradient(#a1c4fd, #54c8fb);
   font-size: 2rem;
   background-size: cover;
-  background-clip: text;
-  color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .inputs {
